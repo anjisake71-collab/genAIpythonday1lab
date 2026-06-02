@@ -4,3 +4,7 @@ print("HELLO world")
 
 print("HELLO ")
 print("hello word")
+print("hello word")
+print("hlo")
+print("hi this is a test")
+print("hi this is a test")
